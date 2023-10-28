@@ -1,2 +1,4 @@
 # Currency-Formatter-and-convertor
 This CURRENCY CONVERTOR is a digital convertor which will convert the currencies of different countries into other currencies. 
+Different countries use different currency and CURRENCY CONVERTOR is a website application that is designed for converting the entered amount from one currency to other currency and show the difference between them. This system will convert the amounts instantly by selecting currencies from “FROM” and “TO” and just by clicking on the button convert.
+This Currency convertor includes conversion for 52 currencies and can convert them into each other within seconds. We can also reset it and can-do other conversions without closings the page. Such application can be used by any user as it is very easy to use and understand, but it is mainly useful for business, shares, and finance related areas where money transfer and currency exchange takes place on a daily basis.
